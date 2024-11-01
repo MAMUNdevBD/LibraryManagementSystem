@@ -1,0 +1,1 @@
+load-shedding is a common meter in Bangladesh 
